@@ -1,0 +1,13 @@
+{
+	"name" : "TTI Assessment",
+	"version" : "1.0",
+	"download_url": "http://example.com/updates/example-plugin.zip",
+	"homepage": "https://www.ttisi.com/",
+	"requires": "4.0",
+	"tested": "5.2.1",
+	"author": "Presstiger",
+	"author_homepage": "https://www.presstigers.com/",
+	"sections": {
+		"description" : "Eliminate your people problems with our assessment tools, management techniques, and global network of experts."
+	}
+}

@@ -1,0 +1,323 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TTI Assessments Team Building\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-04-25 19:39+0000\n"
+"PO-Revision-Date: 2019-04-25 21:25+0000\n"
+"Last-Translator: test7 First test7 Las <awais.altaf@test7.com>\n"
+"Language-Team: Français\n"
+"Language: fr_FR\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.2.2; wp-5.1.1"
+
+#. URI of the plugin
+msgid "#"
+msgstr ""
+
+#: admin/class-tti-platform-admin.php:1135
+msgid "Account ID"
+msgstr ""
+"identifiant de compte\n"
+
+#: admin/class-tti-platform-admin.php:230
+#: admin/class-tti-platform-admin.php:689
+msgid "Account Login"
+msgstr ""
+"Connexion au compte\n"
+
+#: admin/class-tti-platform-admin.php:1211
+msgid "Active"
+msgstr "actif"
+
+#: admin/class-tti-platform-admin.php:223
+msgid "Add Assessment"
+msgstr ""
+"Ajouter une évaluation\n"
+
+#: admin/class-tti-platform-admin.php:148
+#: admin/class-tti-platform-admin.php:184
+msgid "Add New"
+msgstr ""
+"Ajouter un nouveau\n"
+
+#: admin/class-tti-platform-admin.php:147
+msgid "Add New Assessment"
+msgstr ""
+"Ajouter une nouvelle évaluation\n"
+
+#: admin/class-tti-platform-admin.php:145
+msgid "All Assessments"
+msgstr ""
+"Toutes les évaluations\n"
+
+#. Description of the plugin
+msgid "Allow users to take assessments."
+msgstr ""
+"Autoriser les utilisateurs à prendre des évaluations.\n"
+
+#: admin/class-tti-platform-admin.php:227
+#: admin/class-tti-platform-admin.php:686
+msgid "API Key"
+msgstr ""
+"clé API\n"
+
+#: admin/class-tti-platform-admin.php:233
+#: admin/class-tti-platform-admin.php:692
+msgid "API Service Location"
+msgstr ""
+"Emplacement du service API\n"
+
+#: admin/class-tti-platform-admin.php:531
+msgid "Assessment already exist."
+msgstr ""
+"L'évaluation existe déjà.\n"
+
+#: admin/class-tti-platform-admin.php:544
+msgid "Assessment Already exists"
+msgstr ""
+"L'évaluation existe déjà\n"
+
+#: admin/class-tti-platform-admin.php:663
+msgid "Assessment Details"
+msgstr ""
+"Détails de l'évaluation\n"
+
+#: admin/class-tti-platform-admin.php:701
+msgid "Assessment Status"
+msgstr ""
+"État de l'évaluation\n"
+
+#: admin/class-tti-platform-admin.php:547
+msgid "Assessment Successfully Added"
+msgstr ""
+"Évaluation ajoutée avec succès\n"
+
+#: admin/class-tti-platform-admin.php:648
+msgid "Assessment successfully added."
+msgstr ""
+"Évaluation ajoutée avec succès.\n"
+
+#: admin/class-tti-platform-admin.php:143
+msgid "Assessments"
+msgstr "Évaluations"
+
+#: admin/class-tti-platform-admin.php:159
+msgid "assessments"
+msgstr "évaluations"
+
+#: admin/class-tti-platform-admin.php:251
+#: admin/class-tti-platform-admin.php:704
+msgid "Can Print Report?"
+msgstr ""
+"Peut imprimer le rapport?\n"
+
+#: admin/class-tti-platform-admin.php:270
+msgid "Click here to generate key"
+msgstr ""
+"Cliquez ici pour générer la clé\n"
+
+#: admin/class-tti-platform-admin.php:149
+msgid "Edit Assessment"
+msgstr ""
+"Modifier l'évaluation\n"
+
+#: admin/class-tti-platform-admin.php:325
+msgid "Error! Please generate secret key first."
+msgstr ""
+"Erreur! S'il vous plaît générer la clé secrète en premier.\n"
+
+#: admin/class-tti-platform-admin.php:286
+msgid "Generate"
+msgstr "produire"
+
+#. Author URI of the plugin
+msgid "http://presstigers.com/"
+msgstr ""
+
+#: admin/class-tti-platform-admin.php:698
+#: admin/class-tti-platform-admin.php:1136
+msgid "Link ID"
+msgstr ""
+"ID de lien\n"
+
+#: admin/class-tti-platform-admin.php:247
+msgid "Link Login:"
+msgstr ""
+"Lien de connexion:\n"
+
+#: admin/class-tti-platform-admin.php:253
+#: admin/class-tti-platform-admin.php:706
+msgid "No"
+msgstr "Non"
+
+#: admin/class-tti-platform-admin.php:152
+msgid "Not Found"
+msgstr ""
+"Pas trouvé\n"
+
+#: admin/class-tti-platform-admin.php:153
+msgid "Not found in Trash"
+msgstr ""
+"Introuvable dans la corbeille\n"
+
+#: admin/class-tti-platform-admin.php:683
+#: admin/class-tti-platform-admin.php:1134
+msgid "Organization"
+msgstr "Organisation"
+
+#: admin/class-tti-platform-admin.php:224
+msgid "Organization "
+msgstr ""
+"Organisation\n"
+
+#: admin/class-tti-platform-admin.php:144
+msgid "Parent Assessment"
+msgstr ""
+"Évaluation des parents\n"
+
+#: admin/class-tti-platform-admin.php:141
+msgctxt "Post Type General Name"
+msgid "Assessments"
+msgstr "Évaluations"
+
+#: admin/class-tti-platform-admin.php:142
+msgctxt "Post Type Singular Name"
+msgid "Assessment"
+msgstr ""
+"Évaluation\n"
+
+#. Author of the plugin
+msgid "Presstigers"
+msgstr ""
+
+#: admin/class-tti-platform-admin.php:709
+msgid "Report Metadata in JSON "
+msgstr ""
+"Signaler les métadonnées en JSON\n"
+
+#: admin/class-tti-platform-admin.php:258
+#: admin/class-tti-platform-admin.php:288
+msgid "Save"
+msgstr "sauvegarder"
+
+#: admin/class-tti-platform-admin.php:151
+msgid "Search Assessment"
+msgstr ""
+"Évaluation de la recherche\n"
+
+#: admin/class-tti-platform-admin.php:284
+msgid "Secret Key"
+msgstr ""
+"Clef secrète\n"
+
+#: admin/class-tti-platform-admin.php:374
+msgid "Secret key already saved in the system."
+msgstr ""
+"La clé secrète est déjà enregistrée dans le système.\n"
+
+#: admin/class-tti-platform-admin.php:426
+msgid "Secret key has been saved successfully."
+msgstr ""
+"La clé secrète a été enregistrée avec succès.\n"
+
+#: admin/class-tti-platform-admin.php:187
+#: admin/class-tti-platform-admin.php:282
+msgid "Settings"
+msgstr ""
+"Réglages\n"
+
+#: admin/class-tti-platform-admin.php:241
+msgid "Something wrong. Please try again."
+msgstr ""
+"Quelque chose ne va pas. Veuillez réessayer.\n"
+
+#: admin/class-tti-platform-admin.php:1137
+msgid "Status"
+msgstr "Statut"
+
+#: admin/class-tti-platform-admin.php:236
+#: admin/class-tti-platform-admin.php:695
+msgid "Survey Location"
+msgstr ""
+"Lieu de l'enquête\n"
+
+#: admin/class-tti-platform-admin.php:1305
+msgid "Suspended"
+msgstr "Suspendu"
+
+#: public/class-tti-platform-public.php:243
+#: public/class-tti-platform-public.php:1041
+msgid "There is somthing wrong."
+msgstr ""
+"Il y a quelque chose qui ne va pas.\n"
+
+#: public/class-tti-platform-public.php:345
+msgid "This assessment has been suspended."
+msgstr ""
+"Cette évaluation a été suspendue.\n"
+
+#. Name of the plugin
+msgid "TTI Assessments Team Building"
+msgstr ""
+"TTI Evaluations Team Building\n"
+
+#: admin/class-tti-platform-admin.php:1120
+msgid "TTI Shortcodes"
+msgstr ""
+"TTI Shortcodes\n"
+
+#: admin/class-tti-platform-admin.php:150
+msgid "Update Assessment"
+msgstr ""
+"Mise à jour de l'évaluation\n"
+
+#: admin/class-tti-platform-admin.php:295
+msgid "Use following URL as a Return URL"
+msgstr ""
+"Utiliser l'URL suivante comme URL de retour\n"
+
+#: admin/class-tti-platform-admin.php:239
+msgid "Validate Data"
+msgstr ""
+"Valider les données\n"
+
+#: admin/class-tti-platform-admin.php:146
+msgid "View Assessment"
+msgstr ""
+"Voir l'évaluation\n"
+
+#: admin/class-tti-platform-admin.php:252
+#: admin/class-tti-platform-admin.php:705
+msgid "Yes"
+msgstr "Oui"
+
+#: admin/class-tti-platform-admin.php:270
+msgid "You must has to generate a secret key to add new assessments."
+msgstr ""
+"Vous devez doit générer une clé secrète pour ajouter de nouvelles "
+"évaluations.\n"
+
+#: public/class-tti-platform-public.php:352
+msgid "You must logged in to take this assessment."
+msgstr ""
+"Vous devez être connecté pour prendre cette évaluation.\n"
+
+#: public/class-tti-platform-public.php:296
+msgid "Your assessment has been successfully completed."
+msgstr ""
+"Votre évaluation a été complétée avec succès.\n"
+
+#: admin/class-tti-platform-admin.php:540
+msgid ""
+"Your assessment is in the trash. Would you like to restore the assessment?"
+msgstr ""
+"Votre évaluation est à la poubelle. Souhaitez-vous restaurer l'évaluation?\n"
+
+#: public/class-tti-platform-public.php:1048
+msgid "Your feedback has been saved."
+msgstr ""
+"Vos commentaires ont été enregistrés.\n"

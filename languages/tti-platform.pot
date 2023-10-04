@@ -1,0 +1,276 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: TTI Assessments Team Building\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-04-25 19:39+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.2.2; wp-5.1.1"
+
+#. URI of the plugin
+msgid "#"
+msgstr ""
+
+#: admin/class-tti-platform-admin.php:1135
+msgid "Account ID"
+msgstr ""
+
+#: admin/class-tti-platform-admin.php:230
+#: admin/class-tti-platform-admin.php:689
+msgid "Account Login"
+msgstr ""
+
+#: admin/class-tti-platform-admin.php:1211
+msgid "Active"
+msgstr ""
+
+#: admin/class-tti-platform-admin.php:223
+msgid "Add Assessment"
+msgstr ""
+
+#: admin/class-tti-platform-admin.php:148
+#: admin/class-tti-platform-admin.php:184
+msgid "Add New"
+msgstr ""
+
+#: admin/class-tti-platform-admin.php:147
+msgid "Add New Assessment"
+msgstr ""
+
+#: admin/class-tti-platform-admin.php:145
+msgid "All Assessments"
+msgstr ""
+
+#. Description of the plugin
+msgid "Allow users to take assessments."
+msgstr ""
+
+#: admin/class-tti-platform-admin.php:227
+#: admin/class-tti-platform-admin.php:686
+msgid "API Key"
+msgstr ""
+
+#: admin/class-tti-platform-admin.php:233
+#: admin/class-tti-platform-admin.php:692
+msgid "API Service Location"
+msgstr ""
+
+#: admin/class-tti-platform-admin.php:531
+msgid "Assessment already exist."
+msgstr ""
+
+#: admin/class-tti-platform-admin.php:544
+msgid "Assessment Already exists"
+msgstr ""
+
+#: admin/class-tti-platform-admin.php:663
+msgid "Assessment Details"
+msgstr ""
+
+#: admin/class-tti-platform-admin.php:701
+msgid "Assessment Status"
+msgstr ""
+
+#: admin/class-tti-platform-admin.php:547
+msgid "Assessment Successfully Added"
+msgstr ""
+
+#: admin/class-tti-platform-admin.php:648
+msgid "Assessment successfully added."
+msgstr ""
+
+#: admin/class-tti-platform-admin.php:143
+msgid "Assessments"
+msgstr ""
+
+#: admin/class-tti-platform-admin.php:159
+msgid "assessments"
+msgstr ""
+
+#: admin/class-tti-platform-admin.php:251
+#: admin/class-tti-platform-admin.php:704
+msgid "Can Print Report?"
+msgstr ""
+
+#: admin/class-tti-platform-admin.php:270
+msgid "Click here to generate key"
+msgstr ""
+
+#: admin/class-tti-platform-admin.php:149
+msgid "Edit Assessment"
+msgstr ""
+
+#: admin/class-tti-platform-admin.php:325
+msgid "Error! Please generate secret key first."
+msgstr ""
+
+#: admin/class-tti-platform-admin.php:286
+msgid "Generate"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://presstigers.com/"
+msgstr ""
+
+#: admin/class-tti-platform-admin.php:698
+#: admin/class-tti-platform-admin.php:1136
+msgid "Link ID"
+msgstr ""
+
+#: admin/class-tti-platform-admin.php:247
+msgid "Link Login:"
+msgstr ""
+
+#: admin/class-tti-platform-admin.php:253
+#: admin/class-tti-platform-admin.php:706
+msgid "No"
+msgstr ""
+
+#: admin/class-tti-platform-admin.php:152
+msgid "Not Found"
+msgstr ""
+
+#: admin/class-tti-platform-admin.php:153
+msgid "Not found in Trash"
+msgstr ""
+
+#: admin/class-tti-platform-admin.php:683
+#: admin/class-tti-platform-admin.php:1134
+msgid "Organization"
+msgstr ""
+
+#: admin/class-tti-platform-admin.php:224
+msgid "Organization "
+msgstr ""
+
+#: admin/class-tti-platform-admin.php:144
+msgid "Parent Assessment"
+msgstr ""
+
+#: admin/class-tti-platform-admin.php:141
+msgctxt "Post Type General Name"
+msgid "Assessments"
+msgstr ""
+
+#: admin/class-tti-platform-admin.php:142
+msgctxt "Post Type Singular Name"
+msgid "Assessment"
+msgstr ""
+
+#. Author of the plugin
+msgid "Presstigers"
+msgstr ""
+
+#: admin/class-tti-platform-admin.php:709
+msgid "Report Metadata in JSON "
+msgstr ""
+
+#: admin/class-tti-platform-admin.php:258
+#: admin/class-tti-platform-admin.php:288
+msgid "Save"
+msgstr ""
+
+#: admin/class-tti-platform-admin.php:151
+msgid "Search Assessment"
+msgstr ""
+
+#: admin/class-tti-platform-admin.php:284
+msgid "Secret Key"
+msgstr ""
+
+#: admin/class-tti-platform-admin.php:374
+msgid "Secret key already saved in the system."
+msgstr ""
+
+#: admin/class-tti-platform-admin.php:426
+msgid "Secret key has been saved successfully."
+msgstr ""
+
+#: admin/class-tti-platform-admin.php:187
+#: admin/class-tti-platform-admin.php:282
+msgid "Settings"
+msgstr ""
+
+#: admin/class-tti-platform-admin.php:241
+msgid "Something wrong. Please try again."
+msgstr ""
+
+#: admin/class-tti-platform-admin.php:1137
+msgid "Status"
+msgstr ""
+
+#: admin/class-tti-platform-admin.php:236
+#: admin/class-tti-platform-admin.php:695
+msgid "Survey Location"
+msgstr ""
+
+#: admin/class-tti-platform-admin.php:1305
+msgid "Suspended"
+msgstr ""
+
+#: public/class-tti-platform-public.php:243
+#: public/class-tti-platform-public.php:1041
+msgid "There is somthing wrong."
+msgstr ""
+
+#: public/class-tti-platform-public.php:345
+msgid "This assessment has been suspended."
+msgstr ""
+
+#. Name of the plugin
+msgid "TTI Assessments Team Building"
+msgstr ""
+
+#: admin/class-tti-platform-admin.php:1120
+msgid "TTI Shortcodes"
+msgstr ""
+
+#: admin/class-tti-platform-admin.php:150
+msgid "Update Assessment"
+msgstr ""
+
+#: admin/class-tti-platform-admin.php:295
+msgid "Use following URL as a Return URL"
+msgstr ""
+
+#: admin/class-tti-platform-admin.php:239
+msgid "Validate Data"
+msgstr ""
+
+#: admin/class-tti-platform-admin.php:146
+msgid "View Assessment"
+msgstr ""
+
+#: admin/class-tti-platform-admin.php:252
+#: admin/class-tti-platform-admin.php:705
+msgid "Yes"
+msgstr ""
+
+#: admin/class-tti-platform-admin.php:270
+msgid "You must has to generate a secret key to add new assessments."
+msgstr ""
+
+#: public/class-tti-platform-public.php:352
+msgid "You must logged in to take this assessment."
+msgstr ""
+
+#: public/class-tti-platform-public.php:296
+msgid "Your assessment has been successfully completed."
+msgstr ""
+
+#: admin/class-tti-platform-admin.php:540
+msgid ""
+"Your assessment is in the trash. Would you like to restore the assessment?"
+msgstr ""
+
+#: public/class-tti-platform-public.php:1048
+msgid "Your feedback has been saved."
+msgstr ""
